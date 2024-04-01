@@ -1,0 +1,27 @@
+authentication in django 
+how to avoid redirect in django
+changing user interface of admin site
+database backup 
+database migration
+handling static files
+pushing vendor app 
+
+////
+Backend Setup
+Model and app creation
+Login Logout and Signup
+password reset 
+user apis
+Farmer apis
+Product apis
+Order Apis
+payment integration
+Transaction apis
+pip freeze
+
+
+////// todays tasks
+// implement Login
+// implement Signup
+// implement Logout
+// implement password reset both from the postman and from the django admin  with phonenumber and password
